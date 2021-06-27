@@ -1,5 +1,5 @@
 # MLAPP
-Deep Learning application for PCB defect fidner
+Deep Learning application for PCB defect finder
 
 Pre requisities
 Data to be downloaded from DeepPCB
