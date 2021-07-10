@@ -1,0 +1,98 @@
+{
+    "test_image_name": "PCBData\\group00041\\00041\\00041000_test.jpg",
+    "template_name": "PCBData\\group00041\\00041\\00041000_temp.jpg",
+    "height": 640,
+    "width": 640,
+    "annotations": [
+        {
+            "id": 0,
+            "category_id": 4,
+            "bbox": [
+                79,
+                458,
+                138,
+                508
+            ]
+        },
+        {
+            "id": 1,
+            "category_id": 2,
+            "bbox": [
+                456,
+                435,
+                503,
+                482
+            ]
+        },
+        {
+            "id": 2,
+            "category_id": 5,
+            "bbox": [
+                240,
+                330,
+                290,
+                382
+            ]
+        },
+        {
+            "id": 3,
+            "category_id": 3,
+            "bbox": [
+                210,
+                303,
+                263,
+                356
+            ]
+        },
+        {
+            "id": 4,
+            "category_id": 1,
+            "bbox": [
+                448,
+                296,
+                505,
+                401
+            ]
+        },
+        {
+            "id": 5,
+            "category_id": 0,
+            "bbox": [
+                532,
+                250,
+                604,
+                325
+            ]
+        },
+        {
+            "id": 6,
+            "category_id": 4,
+            "bbox": [
+                141,
+                138,
+                193,
+                187
+            ]
+        },
+        {
+            "id": 7,
+            "category_id": 5,
+            "bbox": [
+                482,
+                17,
+                536,
+                66
+            ]
+        },
+        {
+            "id": 8,
+            "category_id": 5,
+            "bbox": [
+                416,
+                15,
+                467,
+                63
+            ]
+        }
+    ]
+}

@@ -1,15 +1,51 @@
 # MLAPP
+
 Deep Learning application for PCB defect finder
 
-Pre requisities
-Data to be downloaded from DeepPCB
-React to be installed
-Dataset can be taken from https://github.com/tangsanli5201/DeepPCB/tree/master/PCBData
-Atribute to Tangsanli
-Instructions to run
+##Pre-requisites:<br/>
+Download Python 3.x.x version from
+```
+https://www.python.org/downloads/
+```
+Download and install Node.js from
+```
+https://nodejs.org/en/download/
+```
+Clone this repo using the following command
+```
+git clone https://github.com/techfm2021/MLAPP.git
+``` 
+We use the following sample dataset downloaded from 
+```
+https://github.com/tangsanli5201/DeepPCB/tree/master/PCBData
+```
+Attribute to Tangsanli
+## Instructions to configure for first time:
+<!-- Extract the following zip files
+- mlweb.zip
+- mlapp.zip
+- pcbdata.zip -->
+<br/>
+<br/>
+Open terminal/cmd and enter:
+```
+pip install -r requirements.txt
+```
+Navigate to the mlweb folder open terminal/cmd and enter:
+```
+npm install react-scripts
+```
+<br/>
 
-in mlweb folder open terminal/cmd: npm start
+<!-- Rename the `PCBData` folder to `data` -->
 
-in mlapp folder open terminal/cmd: python mlapp_flask.py
+## Instructions to run:
 
-Edited
+Navigate to the mlweb folder open terminal/cmd and enter:
+```
+npm start
+```
+Navigate to the mlapp folder open terminal/cmd and enter: 
+```
+python mlapp_flask.py
+```
