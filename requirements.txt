@@ -3,3 +3,4 @@ numpy~=1.19.5
 tensorflow~=2.5.0
 Flask~=2.0.1
 matplotlib~=3.4.2
+Flask-Cors~=3.0.10
