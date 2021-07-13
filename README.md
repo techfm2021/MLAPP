@@ -13,15 +13,16 @@ Download and install Node.js from
 ```
 https://nodejs.org/en/download/
 ```
-(Optional) If you want to install Git, you can download and install Git from 
+_(Optional) If you want to install Git, you can download and install Git from_
 ```
 https://git-scm.com/downloads
 ```
 Clone this repo using the following command
 ```
 git clone https://github.com/techfm2021/MLAPP.git
->You can also `Download as Zip` and extract it in your local in case you do not want to use `git clone` command above
 ``` 
+>You can also `Download as Zip` and extract it in your local in case you do not want to use `git clone` command above<br/>
+
 We use the following sample dataset downloaded from 
 ```
 https://github.com/tangsanli5201/DeepPCB/tree/master/PCBData
