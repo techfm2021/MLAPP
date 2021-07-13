@@ -38,6 +38,10 @@ def extract_defects(template_path, test_path, get_plot=False):
 
         # get bounding box
         x, y, w, h = cv2.boundingRect(s)
+        # Avoid Negative Value
+        x = x if x >= offset else offset
+        y = y if y >= offset else offset
+
         top_left = (x - offset, y - offset)
         bottom_right = (x + w + offset, y + h + offset)
         # print(top_left, bottom_right,hierarchy_order)
